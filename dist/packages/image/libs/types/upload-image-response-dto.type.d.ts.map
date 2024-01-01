@@ -1,0 +1,1 @@
+{"version":3,"file":"upload-image-response-dto.type.d.ts","sourceRoot":"","sources":["../../../../../src/packages/image/libs/types/upload-image-response-dto.type.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,KAAK,EAAE,MAAM,iBAAiB,CAAC;AAE7C,KAAK,sBAAsB,GAAG,KAAK,CAAC;AAEpC,OAAO,EAAE,KAAK,sBAAsB,EAAE,CAAC"}

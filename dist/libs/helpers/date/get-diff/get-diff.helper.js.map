@@ -1,0 +1,1 @@
+{"version":3,"file":"get-diff.helper.js","sourceRoot":"","sources":["../../../../../src/libs/helpers/date/get-diff/get-diff.helper.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,mBAAmB,CAAC;AAE1C,MAAM,OAAO,GAAG,CAAC,CAAgB,EAAE,CAAgB,EAAU,EAAE;IAC7D,OAAO,KAAK,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC,CAAC;AAC1B,CAAC,CAAC;AAEF,OAAO,EAAE,OAAO,EAAE,CAAC"}

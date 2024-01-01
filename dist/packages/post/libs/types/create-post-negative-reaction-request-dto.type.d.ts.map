@@ -1,0 +1,1 @@
+{"version":3,"file":"create-post-negative-reaction-request-dto.type.d.ts","sourceRoot":"","sources":["../../../../../src/packages/post/libs/types/create-post-negative-reaction-request-dto.type.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,oBAAoB,EAAE,MAAM,kCAAkC,CAAC;AAE7E,KAAK,oCAAoC,GAAG,IAAI,CAAC,oBAAoB,EAAE,QAAQ,GAAG,WAAW,CAAC,CAAC;AAE/F,OAAO,EAAE,KAAK,oCAAoC,EAAE,CAAC"}

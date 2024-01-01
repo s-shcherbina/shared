@@ -1,0 +1,1 @@
+{"version":3,"file":"get-comment-by-id-response-dto.type.d.ts","sourceRoot":"","sources":["../../../../../src/packages/comment/libs/types/get-comment-by-id-response-dto.type.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,8BAA8B,EAAE,MAAM,8CAA8C,CAAC;AAEnG,KAAK,yBAAyB,GAAG,8BAA8B,GAAG,IAAI,CAAC;AAEvE,OAAO,EAAE,KAAK,yBAAyB,EAAE,CAAC"}

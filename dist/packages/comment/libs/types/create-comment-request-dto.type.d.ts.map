@@ -1,0 +1,1 @@
+{"version":3,"file":"create-comment-request-dto.type.d.ts","sourceRoot":"","sources":["../../../../../src/packages/comment/libs/types/create-comment-request-dto.type.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,OAAO,EAAE,MAAM,mBAAmB,CAAC;AAEjD,KAAK,uBAAuB,GAAG,IAAI,CAAC,OAAO,EAAE,MAAM,GAAG,QAAQ,CAAC,CAAC;AAEhE,OAAO,EAAE,KAAK,uBAAuB,EAAE,CAAC"}
